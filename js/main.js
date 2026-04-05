@@ -1,5 +1,5 @@
 // ===== REEMPLAZA CON TU URL DE APPS SCRIPT =====
-const APPS_SCRIPT_URL = "TU_URL_AQUI";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyRTMjYdtlLSBhaYf8-H9iBdn_tokPuWc-HMgSD6gwfeKhFHBMDVh7a-FXlQWxzbBp_2Q/exec";
 
 // ===== NAVBAR SCROLL =====
 const navbar = document.getElementById("navbar");
